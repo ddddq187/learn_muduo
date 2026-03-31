@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/ddddq187/Proj/muduo/build/src",
+  "command": "/usr/bin/c++  -I/home/ddddq187/Proj/muduo/src/../include -g -std=c++17 -o CMakeFiles/muduo.dir/CurrentThread.cc.o -c /home/ddddq187/Proj/muduo/src/CurrentThread.cc",
+  "file": "/home/ddddq187/Proj/muduo/src/CurrentThread.cc",
+  "output": "src/CMakeFiles/muduo.dir/CurrentThread.cc.o"
+},
+{
+  "directory": "/home/ddddq187/Proj/muduo/build/src",
+  "command": "/usr/bin/c++  -I/home/ddddq187/Proj/muduo/src/../include -g -std=c++17 -o CMakeFiles/muduo.dir/Thread.cc.o -c /home/ddddq187/Proj/muduo/src/Thread.cc",
+  "file": "/home/ddddq187/Proj/muduo/src/Thread.cc",
+  "output": "src/CMakeFiles/muduo.dir/Thread.cc.o"
+},
+{
+  "directory": "/home/ddddq187/Proj/muduo/build/src",
+  "command": "/usr/bin/c++  -I/home/ddddq187/Proj/muduo/src/../include -g -std=c++17 -o CMakeFiles/muduo.dir/Timestamp.cc.o -c /home/ddddq187/Proj/muduo/src/Timestamp.cc",
+  "file": "/home/ddddq187/Proj/muduo/src/Timestamp.cc",
+  "output": "src/CMakeFiles/muduo.dir/Timestamp.cc.o"
+}
+]

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmuduo.a CMakeFiles/muduo.dir/CurrentThread.cc.o CMakeFiles/muduo.dir/Thread.cc.o CMakeFiles/muduo.dir/Timestamp.cc.o
+/usr/bin/ranlib libmuduo.a
